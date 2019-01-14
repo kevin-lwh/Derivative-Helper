@@ -20,11 +20,25 @@ Simply open the "Derivative-Helper" project in NetBeans or other Java IDE and hi
    
 ## User Manual
 1. Inputting the function
-   - When the user runs the program, they will be greeted with this window. It is a very simple window with the first text field allowing the user to input the function following the format of from the highest exponents to the lowest exponents. Eg. y=5x^2+x-10 with no caps or spaces in between. The current program only handles with polynomials with negative exponents. After inputting the function into the text field, the user must click save to save the function in order for further calculations.
-
+   - When the user runs the program, they will be greeted with this window. It is a very simple window with the first text field allowing the user to input the function following the format of from the highest exponents to the lowest exponents. Eg. y=5x^2+x-10 with no caps or spaces in between. The current program only handles with polynomials with negative exponents. After inputting the function into the text field, the user must click save to save the function in order for further calculations. 
+   - ![](images/Screenshot_1.png)
+2. Finding derivative
+   - To find the derivative of the function, click the Derivative Button and a new window will open up.
+   - ![](images/Screenshot_2.png)
+   - This window will show the original function as well as its derivative and with the option to graph the two functions. Click the Graph Button to graph the two functions.
+3. Finding derivative at a point
+   - To find the derivative at a point simply input the desired x coordinate in the first window.
+   - ![](images/Screenshot_3.png)
+   - Then click the Derivative at Point Button and a new window will open up.
+   - ![](images/Screenshot_4.png)
+   - It will display the original function, derivative, the derivative at the desired point, and the standard equation of the tangent line. It also has the option to graph the two functions. 
+4. Graph
+   - Simply click the Graph Button to graph the two functions.
+   - ![](images/Screenshot_5.png)
 
 ## Built With
 * Java
 
 ## Author(s)
 * Kevin Huang
+* James Wu
